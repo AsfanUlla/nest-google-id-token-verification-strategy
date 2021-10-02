@@ -18,5 +18,5 @@ npm start
   
 ## --------------
 
-- Token payload
+- API response 
 ![token_payload](https://github.com/AsfanUlla/nest-google-id-token-verification-strategy/blob/master/result/2.png)
