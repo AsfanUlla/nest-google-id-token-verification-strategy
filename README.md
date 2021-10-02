@@ -9,4 +9,4 @@ npm install
 npm start
 ```
 
-- pass token as ```-H "Authorization: Bearer <JWT>``` to the end-point ```/user/profile```
+- pass token as ```-H "Authorization: Bearer <JWT>"``` to the end-point ```/user/profile```
