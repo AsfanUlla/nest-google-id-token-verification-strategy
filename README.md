@@ -3,6 +3,7 @@
 ## Prerequisite
   - Generate/obtain google outh JWT from OAuth playground using your CLIENT_ID and CLIENT_SECRET
     - ref : https://developers.google.com/google-ads/api/docs/oauth/playground
+  - replace ```audience``` in ```src/jwt.strategy.ts``` with your CLIENT_ID
 
 ## Installation
 ```
