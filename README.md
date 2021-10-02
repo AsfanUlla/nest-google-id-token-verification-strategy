@@ -19,3 +19,6 @@ npm start
 ### Token payload
 
 ![token_payload](https://github.com/AsfanUlla/nest-google-id-token-verification-strategy/blob/master/result/2.png)
+
+## Ref -
+  https://cloud.google.com/endpoints/docs/openapi/authenticating-users-google-id
