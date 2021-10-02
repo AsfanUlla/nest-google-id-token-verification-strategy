@@ -1,5 +1,9 @@
 # nest-google-id-token-verification-strategy
 
+## Prerequisite
+  - Generate/obtain google outh JWT from OAuth playground using your CLIENT_ID and CLIENT_SECRET
+    - ref : https://developers.google.com/google-ads/api/docs/oauth/playground
+
 ## Installation
 ```
 npm install
