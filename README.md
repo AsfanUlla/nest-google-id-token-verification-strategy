@@ -10,3 +10,8 @@ npm start
 ```
 
 - pass token as ```-H "Authorization: Bearer <JWT>"``` to the end-point ```/user/profile```
+
+## ScreenShots
+
+![api_response](https://github.com/AsfanUlla/nest-google-id-token-verification-strategy/blob/master/result/1.png)
+![token_payload](https://github.com/AsfanUlla/nest-google-id-token-verification-strategy/blob/master/result/2.png)
